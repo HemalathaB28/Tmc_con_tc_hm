@@ -19,7 +19,7 @@ setup(
                   "Operating System :: OS Independent",
               ],
         install_requires=[],
-        url="https://github.com/HemalathaB28/Tmc_con_tc_hm",
+        url="https://github.com/HemalathaB28/Tmc_con_tc_hm.git",
         author='HEMALATHA B',
         author_email='<bhema2802@gmail.com>'
 )
